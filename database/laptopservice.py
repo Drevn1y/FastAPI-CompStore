@@ -2,6 +2,36 @@ from database.models import User, Laptop
 from database import get_db
 from laptops import LaptopValidator
 
+from fastapi import UploadFile
+import shutil
+import os
+
+UPLOAD_DIR = "uploaded_images"
+os.makedirs(UPLOAD_DIR, exist_ok=True)
+
+# Добавить новый ноутбук
+def add_laptop_db(model, monitor, brand, processor, ram, storage, gpu, price, stock_quantity, description, image_url):
+    db = next(get_db())
+
+    new_laptop = Laptop(
+        model=model,
+        monitor=monitor,
+        brand=brand,
+        processor=processor,
+        ram=ram,
+        storage=storage,
+        gpu=gpu,
+        price=price,
+        stock_quantity=stock_quantity,
+        description=description,
+        image_url=image_url
+    )
+
+    db.add(new_laptop)
+    db.commit()
+    db.refresh(new_laptop)
+    return new_laptop  # Возвращаем объект ноутбука для дальнейшего использования
+
 
 # Получить всех ноутбуков
 def get_all_laptops_db():
@@ -11,30 +41,6 @@ def get_all_laptops_db():
 
     return get_all_laptops
 
-
-# Добавить новый ноутбук
-def add_laptop_db(model, monitor, brand, processor, ram, storage, gpu, price, stock_quantity, description, image_url):
-    db = next(get_db())
-
-    new_laptop = Laptop(model=model,
-                        monitor=monitor,
-                        brand=brand,
-                        processor=processor,
-                        ram=ram,
-                        storage=storage,
-                        gpu=gpu,
-                        price=price,
-                        stock_quantity=stock_quantity,
-                        description=description,
-                        image_url=image_url)
-
-    if new_laptop:
-        db.add(new_laptop)
-        db.commit()
-        db.refresh(new_laptop)
-        return 'Ноутбук добавлен в продажу успешно!'
-    else:
-        return 'Ошибка добавления ноутбука в продажу!'
 
 # Удалить ноутбук
 def delete_laptop_db(laptop_id):
