@@ -123,7 +123,7 @@ def plus_balance_user_db(user_id: int, card_number: str, amount: float):
     return {'message': f'Баланс пополнен на {amount}. Текущий баланс: {user.balance}'}
 
 
-# Списание с баланса
+# Списание с баланса вывод денег
 def minus_balance_user_db(user_id, balance: float):
     db = next(get_db())
 
@@ -133,7 +133,7 @@ def minus_balance_user_db(user_id, balance: float):
         if user.balance >= balance:  # Проверяем, достаточно ли денег на балансе
             user.balance -= balance
             db.commit()
-            return f"Спасибо за покупку!!! Ваш балланс: {user.balance} $"
+            return f"Вы вывели свои деньги. Ваш балланс на сайте: {user.balance} $"
         else:
             return f"В вашем баллансе недостаточно денег!"
     else:
@@ -152,7 +152,4 @@ def show_balance_user_db(user_id):
         return 'Пользователь не найден'
 
 
-# Добавить возможность добавить товар в корзину
-# Удалить товар из корзины
-# Покупка товара
-# Добавить смс о доставке ноутбука
+
