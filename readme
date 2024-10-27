@@ -5,5 +5,8 @@ pip install sqlalchemy
 pip install pyjwt
 pip install python-jose
 pip install python-multipart
+pip install pyTelegramBotAPI
 Чтобы запустить
 uvicorn main:app --reload
+
+

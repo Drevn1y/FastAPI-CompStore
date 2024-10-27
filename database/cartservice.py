@@ -4,6 +4,9 @@ from database.models import User, Laptop, Cart, CartItem
 from database import get_db
 from datetime import datetime
 
+from sms.bot import send_order_notification
+import random
+
 
 # Показать товары в корзине пользователя
 def get_all_in_cart_db(user_id: int):
@@ -131,10 +134,12 @@ def purchase_cart_items(user_id: int):
         db.delete(item)
 
     try:
+        order_id = random.randint(100000, 999999)
+        send_order_notification(order_id)
         db.commit()
     except Exception as e:
         db.rollback()  # Откатываем изменения при ошибке
         raise HTTPException(status_code=500, detail="Произошла ошибка во время покупки: " + str(e))
-
     return "Покупка завершена, средства списаны, корзина очищена."
+
 # Добавить смс о доставке ноутбука
