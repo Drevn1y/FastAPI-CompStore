@@ -6,7 +6,12 @@ from datetime import datetime
 
 from sms.bot import send_order_notification
 import random
-
+import logging
+logging.basicConfig(
+    filename="monitoring&logs/app.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
 
 # Показать товары в корзине пользователя
 def get_all_in_cart_db(user_id: int):
@@ -15,8 +20,10 @@ def get_all_in_cart_db(user_id: int):
     cart = db.query(Cart).filter(Cart.user_id == user_id).first()
 
     if not cart:
+        logging.info("Корзина не найдена")
         return "Корзина не найдена."
     if not cart.items:
+        logging.info("Корзина пуста")
         return "Корзина пуста."
 
     # Формируем список товаров, используя поле model вместо name
@@ -72,6 +79,7 @@ def remove_from_cart_db(user_id: int, laptop_id: int):
     # Проверяем, есть ли корзина у пользователя
     cart = db.query(Cart).filter(Cart.user_id == user_id).first()
     if not cart:
+        logging.info("Корзина не найдена")
         return "Корзина не найдена."
 
     # Удаляем элемент из корзины
@@ -81,6 +89,7 @@ def remove_from_cart_db(user_id: int, laptop_id: int):
     ).first()
 
     if not cart_item:
+        logging.info("Товар не найден в корзине.")
         return "Товар не найден в корзине."
 
     db.delete(cart_item)
@@ -98,6 +107,7 @@ def purchase_cart_items(user_id: int):
     user = db.query(User).filter(User.user_id == user_id).first()
 
     if not cart or not cart.items:
+        logging.info("Корзина пуста или не найдена.")
         return "Корзина пуста или не найдена."
     if not user:
         raise HTTPException(status_code=404, detail="Пользователь не найден.")

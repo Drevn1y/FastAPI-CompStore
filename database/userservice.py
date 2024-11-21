@@ -2,7 +2,13 @@ from database.models import User, Card
 
 from database import get_db
 from database.security import create_access_token
-
+import logging
+# logging.basicConfig(level=logging.INFO)
+logging.basicConfig(
+    filename="monitoring&logs/app.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
 
 # Получить всех пользователей
 def get_all_users_db():
@@ -30,6 +36,7 @@ def get_exact_user_db(user_id):
         }
         return f'Пользователь найден {found_user}'
     else:
+        logging.info("Пользователь не найден")
         return 'Пользователь не обнаружен'
 
 
@@ -40,6 +47,7 @@ def register_user_db(username, surname, phone_number, password):
     checker = db.query(User).filter_by(phone_number=phone_number).first()
 
     if checker:
+        logging.info("Такой номер телефона уже есть в базу")
         return 'Такой номер телефона уже есть в базу'
     else:
         new_user = User(username=username, surname=surname, phone_number=phone_number, password=password)
@@ -71,6 +79,7 @@ def delete_user_db(user_id):
         db.commit()
         return f'Пользователь с ID {user_id} удален'
     else:
+        logging.info("Пользователь не найден")
         return 'Пользователь не найден'
 
 
@@ -95,7 +104,8 @@ def edit_user_info_db(user_id, edit_info, new_info):
         db.commit()
         return 'Данные успешно изменены!'
     else:
-        return 'Пользователь не найден(('
+        logging.info("Пользователь не найден")
+        return 'Пользователь не найден'
 
 
 # Пополнить баланс
@@ -105,15 +115,18 @@ def plus_balance_user_db(user_id: int, card_number: str, amount: float):
     # Проверка на наличие пользователя
     user = db.query(User).filter_by(user_id=user_id).first()
     if not user:
+        logging.info("Пользователь не найден")
         return {'message': 'Пользователь не найден'}
 
     # Проверка на наличие карты у пользователя
     card = db.query(Card).filter_by(card_number=card_number, user_id=user_id).first()
     if not card:
+        logging.info("Карта не найдена или не принадлежит пользователю")
         return {'message': 'Карта не найдена или не принадлежит пользователю'}
 
     # Проверка суммы пополнения (должна быть больше 0)
     if amount <= 0:
+        logging.info("Сумма пополнения должна быть больше 0")
         return {'message': 'Сумма пополнения должна быть больше 0'}
 
     # Пополнение баланса
@@ -137,6 +150,7 @@ def minus_balance_user_db(user_id, balance: float):
         else:
             return f"В вашем баллансе недостаточно денег!"
     else:
+        logging.info('Пользователь не найден')
         return f"Пользователь с id {user_id} не найден!"
 
 
@@ -149,6 +163,7 @@ def show_balance_user_db(user_id):
     if user:
         return f'{user.balance}$'
     else:
+        logging.info('Пользователь не найден')
         return 'Пользователь не найден'
 
 

@@ -4,6 +4,15 @@ from laptops import LaptopValidator
 
 from fastapi import UploadFile
 import shutil
+
+import random
+import logging
+logging.basicConfig(
+    filename="monitoring&logs/app.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+
 import os
 
 UPLOAD_DIR = "uploaded_images"
@@ -53,6 +62,7 @@ def delete_laptop_db(laptop_id):
         db.commit()
         return 'Ноутбук удален из продажи успешно!'
     else:
+        logging.info("Ноутбук не найден в продаже!")
         return 'Ноутбук не найден в продаже!'
 
 # Редактировать ноутбук
@@ -86,6 +96,7 @@ def edit_laptop_db(laptop_id, edit_info, new_info):
         db.commit()
         return 'Данные ноутбука успешно изменены!'
     else:
+        logging.info("Ноутбук не найден!")
         return 'Ноутбук не найден!'
 
 

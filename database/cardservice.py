@@ -2,7 +2,12 @@ from database.models import User, Card
 
 from database import get_db
 from database.security import create_access_token
-
+import logging
+logging.basicConfig(
+    filename="monitoring&logs/app.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
 
 # Функция для добавления карты пользователю
 def add_card_to_user_db(user_id: int, card_number: str, card_type: str, card_data: str, card_cvv: str):
@@ -11,11 +16,13 @@ def add_card_to_user_db(user_id: int, card_number: str, card_type: str, card_dat
     # Проверка, существует ли пользователь
     user = db.query(User).filter_by(user_id=user_id).first()
     if not user:
+        logging.info("Пользователь не найден")
         return {'message': 'Пользователь не найден'}
 
     # Проверка, существует ли уже карта с таким номером
     existing_card = db.query(Card).filter_by(card_number=card_number).first()
     if existing_card:
+        logging.info("Карта с таким номером уже существует")
         return {'message': 'Карта с таким номером уже существует'}
 
     # Создание новой карты
@@ -50,6 +57,7 @@ def delete_card_db(user_id, card_number):
         db.commit()
         return f'Карта {card_number} удалена успешно!'
     else:
+        logging.info("Пользователь или карта не найдена")
         return 'Пользователь или карта не найдена'
 
 
@@ -62,6 +70,7 @@ def get_card_db(user_id):
     cards = db.query(Card).filter_by(user_id=user_id).all()
 
     if not cards:
+        logging.info('No cards')
         return {'message': 'Карты не найдены'}
 
     # Возвращение информации о всех картах

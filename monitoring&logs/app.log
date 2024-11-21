@@ -1,0 +1,1668 @@
+2024-11-06 21:25:52,118 - uvicorn.error - INFO - Started server process [16980]
+2024-11-06 21:25:52,118 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:25:52,118 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:25:59,261 - uvicorn.error - INFO - Started server process [1272]
+2024-11-06 21:25:59,261 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:25:59,261 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:26:24,220 - uvicorn.error - INFO - Started server process [18220]
+2024-11-06 21:26:24,220 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:26:24,220 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:26:38,682 - uvicorn.error - INFO - Started server process [10968]
+2024-11-06 21:26:38,682 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:26:38,682 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:26:43,096 - uvicorn.error - INFO - Started server process [15968]
+2024-11-06 21:26:43,096 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:26:43,096 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:26:45,286 - uvicorn.error - INFO - Started server process [17548]
+2024-11-06 21:26:45,286 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:26:45,287 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:27:13,048 - uvicorn.error - INFO - Started server process [5516]
+2024-11-06 21:27:13,048 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:27:13,048 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:27:38,796 - uvicorn.error - INFO - Started server process [6804]
+2024-11-06 21:27:38,796 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:27:38,796 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:27:51,894 - uvicorn.error - INFO - Started server process [996]
+2024-11-06 21:27:51,894 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:27:51,894 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:28:10,676 - uvicorn.error - INFO - Started server process [20828]
+2024-11-06 21:28:10,676 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:28:10,677 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:28:13,373 - uvicorn.error - INFO - Started server process [19116]
+2024-11-06 21:28:13,374 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:28:13,374 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:28:28,257 - uvicorn.error - INFO - Started server process [22356]
+2024-11-06 21:28:28,257 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:28:28,258 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:28:36,905 - uvicorn.error - INFO - Started server process [8412]
+2024-11-06 21:28:36,905 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:28:36,905 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:29:59,862 - uvicorn.error - INFO - Started server process [16148]
+2024-11-06 21:29:59,862 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:29:59,862 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:30:07,349 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:30:07,458 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:30:07,458 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:30:07,458 - uvicorn.error - INFO - Finished server process [16148]
+2024-11-06 21:31:09,112 - uvicorn.error - INFO - Started server process [4452]
+2024-11-06 21:31:09,112 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:31:09,112 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:32:09,218 - uvicorn.error - INFO - Started server process [18920]
+2024-11-06 21:32:09,218 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:32:09,218 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:32:45,783 - uvicorn.error - INFO - Started server process [16256]
+2024-11-06 21:32:45,783 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:32:45,783 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:32:54,235 - uvicorn.error - INFO - Started server process [20064]
+2024-11-06 21:32:54,236 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:32:54,236 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:32:58,989 - uvicorn.error - INFO - Started server process [12872]
+2024-11-06 21:32:58,989 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:32:58,989 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:33:06,640 - uvicorn.error - INFO - Started server process [1992]
+2024-11-06 21:33:06,640 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:33:06,641 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:33:07,290 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:33:07,399 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:33:07,399 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:33:07,399 - uvicorn.error - INFO - Finished server process [1992]
+2024-11-06 21:33:09,737 - uvicorn.error - INFO - Started server process [8920]
+2024-11-06 21:33:09,738 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:33:09,738 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:33:17,770 - uvicorn.error - INFO - Started server process [16836]
+2024-11-06 21:33:17,770 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:33:17,770 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:33:21,895 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:33:22,004 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:33:22,004 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:33:22,004 - uvicorn.error - INFO - Finished server process [16836]
+2024-11-06 21:33:23,117 - uvicorn.error - INFO - Started server process [18900]
+2024-11-06 21:33:23,118 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:33:23,118 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:34:27,317 - uvicorn.error - INFO - Started server process [16628]
+2024-11-06 21:34:27,317 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:34:27,317 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:34:54,877 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:34:54,987 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:34:54,987 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:34:54,987 - uvicorn.error - INFO - Finished server process [16628]
+2024-11-06 21:34:56,243 - uvicorn.error - INFO - Started server process [9736]
+2024-11-06 21:34:56,244 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:34:56,244 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:35:18,464 - uvicorn.error - INFO - Started server process [21112]
+2024-11-06 21:35:18,464 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:35:18,465 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:11,920 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:36:12,027 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:36:12,027 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:36:12,027 - uvicorn.error - INFO - Finished server process [21112]
+2024-11-06 21:36:13,848 - uvicorn.error - INFO - Started server process [17148]
+2024-11-06 21:36:13,848 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:13,849 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:15,152 - uvicorn.error - INFO - Started server process [16416]
+2024-11-06 21:36:15,152 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:15,152 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:19,671 - uvicorn.error - INFO - Started server process [2424]
+2024-11-06 21:36:19,671 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:19,671 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:22,892 - uvicorn.error - INFO - Started server process [2320]
+2024-11-06 21:36:22,892 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:22,892 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:33,038 - uvicorn.error - INFO - Started server process [20532]
+2024-11-06 21:36:33,039 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:33,039 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:36:57,046 - uvicorn.error - INFO - Started server process [2304]
+2024-11-06 21:36:57,046 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:36:57,047 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:38:05,752 - uvicorn.error - INFO - Started server process [9804]
+2024-11-06 21:38:05,752 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:38:05,753 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:38:28,948 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:38:29,057 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:38:29,057 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:38:29,057 - uvicorn.error - INFO - Finished server process [9804]
+2024-11-06 21:38:30,237 - uvicorn.error - INFO - Started server process [21024]
+2024-11-06 21:38:30,237 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:38:30,237 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:43:11,204 - uvicorn.error - INFO - Started server process [19392]
+2024-11-06 21:43:11,204 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:43:11,204 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:43:30,567 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:43:30,676 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:43:30,678 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:43:30,678 - uvicorn.error - INFO - Finished server process [19392]
+2024-11-06 21:44:11,198 - uvicorn.error - INFO - Started server process [2732]
+2024-11-06 21:44:11,198 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:44:11,198 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:44:13,158 - uvicorn.error - INFO - Started server process [18036]
+2024-11-06 21:44:13,158 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:44:13,158 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:44:25,753 - uvicorn.error - INFO - Started server process [18580]
+2024-11-06 21:44:25,753 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:44:25,753 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:44:28,138 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:44:28,247 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:44:28,248 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:44:28,248 - uvicorn.error - INFO - Finished server process [18580]
+2024-11-06 21:44:29,332 - uvicorn.error - INFO - Started server process [15596]
+2024-11-06 21:44:29,332 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:44:29,333 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:45:48,419 - uvicorn.error - INFO - Started server process [22276]
+2024-11-06 21:45:48,419 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:45:48,420 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:52:31,203 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:52:31,308 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:52:31,308 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:52:31,308 - uvicorn.error - INFO - Finished server process [22276]
+2024-11-06 21:52:51,263 - uvicorn.error - INFO - Started server process [12184]
+2024-11-06 21:52:51,263 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 21:52:51,263 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 21:54:02,043 - uvicorn.error - INFO - Shutting down
+2024-11-06 21:54:02,151 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 21:54:02,152 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 21:54:02,152 - uvicorn.error - INFO - Finished server process [12184]
+2024-11-06 22:06:26,332 - uvicorn.error - INFO - Started server process [11724]
+2024-11-06 22:06:26,332 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:06:26,333 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:06:30,637 - uvicorn.error - INFO - Started server process [14192]
+2024-11-06 22:06:30,637 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:06:30,637 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:06:45,349 - uvicorn.error - INFO - Started server process [9600]
+2024-11-06 22:06:45,349 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:06:45,349 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:06:58,021 - uvicorn.error - INFO - Started server process [21756]
+2024-11-06 22:06:58,021 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:06:58,021 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:07:04,016 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:07:04,126 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:07:04,126 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:07:04,126 - uvicorn.error - INFO - Finished server process [21756]
+2024-11-06 22:10:36,762 - uvicorn.error - INFO - Started server process [9136]
+2024-11-06 22:10:36,762 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:10:36,762 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:10:52,825 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:10:52,934 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:10:52,934 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:10:52,934 - uvicorn.error - INFO - Finished server process [9136]
+2024-11-06 22:10:54,036 - uvicorn.error - INFO - Started server process [10280]
+2024-11-06 22:10:54,036 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:10:54,036 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:11:21,396 - uvicorn.error - INFO - Started server process [21844]
+2024-11-06 22:11:21,396 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:11:21,396 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:11:33,525 - uvicorn.error - INFO - Started server process [7560]
+2024-11-06 22:11:33,525 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:11:33,526 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:12:15,391 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:12:15,500 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:12:15,500 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:12:15,500 - uvicorn.error - INFO - Finished server process [7560]
+2024-11-06 22:12:52,085 - uvicorn.error - INFO - Started server process [22096]
+2024-11-06 22:12:52,085 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:12:52,086 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:12:54,896 - uvicorn.error - INFO - Started server process [5576]
+2024-11-06 22:12:54,896 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:12:54,896 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:13:09,554 - uvicorn.error - INFO - Started server process [12496]
+2024-11-06 22:13:09,554 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:13:09,554 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:13:32,530 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:13:32,637 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:13:32,638 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:13:32,638 - uvicorn.error - INFO - Finished server process [12496]
+2024-11-06 22:16:32,009 - uvicorn.error - INFO - Started server process [14724]
+2024-11-06 22:16:32,009 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:16:32,009 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:18:32,350 - uvicorn.error - INFO - Started server process [11788]
+2024-11-06 22:18:32,366 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:18:32,366 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:18:50,009 - uvicorn.error - INFO - Started server process [13668]
+2024-11-06 22:18:50,010 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:18:50,010 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:18:58,440 - uvicorn.error - INFO - Started server process [11924]
+2024-11-06 22:18:58,440 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:18:58,440 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:19:07,918 - uvicorn.error - INFO - Started server process [20532]
+2024-11-06 22:19:07,918 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:19:07,918 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:19:47,894 - uvicorn.error - INFO - Started server process [9964]
+2024-11-06 22:19:47,894 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:19:47,894 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:19:57,760 - uvicorn.error - INFO - Started server process [16148]
+2024-11-06 22:19:57,760 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:19:57,761 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:19:59,142 - uvicorn.error - INFO - Started server process [20408]
+2024-11-06 22:19:59,142 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:19:59,142 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:19:59,361 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:19:59,470 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:19:59,470 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:19:59,470 - uvicorn.error - INFO - Finished server process [20408]
+2024-11-06 22:20:01,431 - uvicorn.error - INFO - Started server process [13096]
+2024-11-06 22:20:01,432 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:20:01,432 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:20:07,167 - uvicorn.error - INFO - Started server process [5360]
+2024-11-06 22:20:07,167 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:20:07,168 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:20:14,016 - uvicorn.error - INFO - Started server process [15628]
+2024-11-06 22:20:14,016 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:20:14,017 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:20:15,879 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:20:15,990 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:20:15,990 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:20:15,990 - uvicorn.error - INFO - Finished server process [15628]
+2024-11-06 22:28:09,322 - uvicorn.error - INFO - Started server process [4408]
+2024-11-06 22:28:09,322 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:28:09,322 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:28:38,126 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:28:38,234 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:28:38,235 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:28:38,236 - uvicorn.error - INFO - Finished server process [4408]
+2024-11-06 22:28:39,295 - uvicorn.error - INFO - Started server process [20196]
+2024-11-06 22:28:39,295 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:28:39,295 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:43:39,001 - uvicorn.error - INFO - Started server process [15756]
+2024-11-06 22:43:39,002 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:43:39,002 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:43:59,281 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:43:59,389 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:43:59,389 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:43:59,389 - uvicorn.error - INFO - Finished server process [15756]
+2024-11-06 22:44:01,025 - uvicorn.error - INFO - Started server process [22124]
+2024-11-06 22:44:01,025 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:44:01,025 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:44:35,816 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:44:35,924 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:44:35,924 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:44:35,924 - uvicorn.error - INFO - Finished server process [22124]
+2024-11-06 22:44:37,069 - uvicorn.error - INFO - Started server process [12052]
+2024-11-06 22:44:37,069 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:44:37,069 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:46:51,264 - uvicorn.error - INFO - Started server process [8504]
+2024-11-06 22:46:51,264 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:46:51,264 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:48:07,049 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:48:07,160 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:48:07,160 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:48:07,160 - uvicorn.error - INFO - Finished server process [8504]
+2024-11-06 22:48:08,273 - uvicorn.error - INFO - Started server process [6764]
+2024-11-06 22:48:08,273 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:48:08,273 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:16,458 - uvicorn.error - INFO - Started server process [1648]
+2024-11-06 22:49:16,459 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:16,459 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:20,067 - uvicorn.error - INFO - Started server process [15420]
+2024-11-06 22:49:20,067 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:20,067 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:22,655 - uvicorn.error - INFO - Started server process [10116]
+2024-11-06 22:49:22,655 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:22,656 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:39,561 - uvicorn.error - INFO - Started server process [996]
+2024-11-06 22:49:39,561 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:39,561 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:42,227 - uvicorn.error - INFO - Started server process [18176]
+2024-11-06 22:49:42,227 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:42,227 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:49:42,657 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:49:42,774 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:49:42,774 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:49:42,774 - uvicorn.error - INFO - Finished server process [18176]
+2024-11-06 22:49:45,601 - uvicorn.error - INFO - Started server process [20124]
+2024-11-06 22:49:45,601 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:49:45,601 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:50:12,203 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:50:12,319 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:50:12,319 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:50:12,319 - uvicorn.error - INFO - Finished server process [20124]
+2024-11-06 22:50:13,404 - uvicorn.error - INFO - Started server process [16012]
+2024-11-06 22:50:13,404 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:50:13,404 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:50:26,836 - uvicorn.error - INFO - Started server process [9808]
+2024-11-06 22:50:26,836 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:50:26,837 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:50:38,455 - uvicorn.error - INFO - Shutting down
+2024-11-06 22:50:38,567 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 22:50:38,568 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 22:50:38,568 - uvicorn.error - INFO - Finished server process [9808]
+2024-11-06 22:57:04,380 - uvicorn.error - INFO - Started server process [14132]
+2024-11-06 22:57:04,380 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:57:04,381 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:57:05,860 - uvicorn.error - INFO - Started server process [9324]
+2024-11-06 22:57:05,860 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:57:05,861 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 22:57:19,258 - uvicorn.error - INFO - Started server process [5948]
+2024-11-06 22:57:19,258 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 22:57:19,258 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:01:22,474 - uvicorn.error - INFO - Started server process [11644]
+2024-11-06 23:01:22,474 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:01:22,474 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:01:25,911 - uvicorn.error - INFO - Started server process [1884]
+2024-11-06 23:01:25,911 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:01:25,911 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:01:40,768 - uvicorn.error - INFO - Started server process [1168]
+2024-11-06 23:01:40,768 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:01:40,769 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:01:55,620 - uvicorn.error - INFO - Started server process [19588]
+2024-11-06 23:01:55,620 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:01:55,620 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:02:10,774 - uvicorn.error - INFO - Started server process [20408]
+2024-11-06 23:02:10,774 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:02:10,774 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:02:25,787 - uvicorn.error - INFO - Started server process [19592]
+2024-11-06 23:02:25,787 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:02:25,787 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:02:40,852 - uvicorn.error - INFO - Started server process [19636]
+2024-11-06 23:02:40,852 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:02:40,853 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:02:55,794 - uvicorn.error - INFO - Started server process [8112]
+2024-11-06 23:02:55,794 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:02:55,794 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:03:10,972 - uvicorn.error - INFO - Started server process [15716]
+2024-11-06 23:03:10,972 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:03:10,972 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:03:17,915 - uvicorn.error - INFO - Started server process [20356]
+2024-11-06 23:03:17,915 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:03:17,916 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:03:25,111 - uvicorn.error - INFO - Started server process [4720]
+2024-11-06 23:03:25,111 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:03:25,111 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:03:39,828 - uvicorn.error - INFO - Started server process [15848]
+2024-11-06 23:03:39,828 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:03:39,829 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:03:55,008 - uvicorn.error - INFO - Started server process [7772]
+2024-11-06 23:03:55,009 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:03:55,009 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:07,590 - uvicorn.error - INFO - Started server process [5324]
+2024-11-06 23:04:07,590 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:07,590 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:11,235 - uvicorn.error - INFO - Started server process [1984]
+2024-11-06 23:04:11,236 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:11,236 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:14,128 - uvicorn.error - INFO - Started server process [17652]
+2024-11-06 23:04:14,128 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:14,129 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:28,718 - uvicorn.error - INFO - Started server process [2864]
+2024-11-06 23:04:28,718 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:28,718 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:37,380 - uvicorn.error - INFO - Started server process [17124]
+2024-11-06 23:04:37,380 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:37,380 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:43,050 - uvicorn.error - INFO - Started server process [18392]
+2024-11-06 23:04:43,051 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:43,051 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:04:57,765 - uvicorn.error - INFO - Started server process [19732]
+2024-11-06 23:04:57,765 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:04:57,766 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:05:01,520 - uvicorn.error - INFO - Started server process [8540]
+2024-11-06 23:05:01,520 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:05:01,521 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:06:50,234 - aio_pika.queue - INFO - Purging queue: <RobustQueue(my_queue): auto_delete=False, durable=True, exclusive=False, arguments=None
+2024-11-06 23:07:32,875 - uvicorn.error - INFO - Started server process [14396]
+2024-11-06 23:07:32,875 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:07:32,876 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:07:57,296 - uvicorn.error - INFO - Started server process [9996]
+2024-11-06 23:07:57,296 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:07:57,296 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:08:28,641 - uvicorn.error - INFO - Started server process [17440]
+2024-11-06 23:08:28,642 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:08:28,642 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:10:06,654 - uvicorn.error - INFO - Shutting down
+2024-11-06 23:10:06,763 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 23:10:06,764 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 23:10:06,764 - uvicorn.error - INFO - Finished server process [17440]
+2024-11-06 23:10:08,577 - uvicorn.error - INFO - Started server process [13324]
+2024-11-06 23:10:08,577 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:10:08,577 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:12:31,816 - uvicorn.error - INFO - Started server process [20404]
+2024-11-06 23:12:31,816 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:12:31,816 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:12:46,723 - uvicorn.error - INFO - Started server process [17872]
+2024-11-06 23:12:46,723 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:12:46,723 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:13:01,630 - uvicorn.error - INFO - Started server process [19216]
+2024-11-06 23:13:01,631 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:13:01,631 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:13:06,427 - uvicorn.error - INFO - Started server process [9208]
+2024-11-06 23:13:06,427 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:13:06,427 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:13:12,897 - aio_pika.queue - INFO - Purging queue: <RobustQueue(my_queue): auto_delete=False, durable=True, exclusive=False, arguments=None
+2024-11-06 23:13:21,370 - uvicorn.error - INFO - Started server process [7772]
+2024-11-06 23:13:21,370 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:13:21,370 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:13:36,773 - uvicorn.error - INFO - Started server process [17420]
+2024-11-06 23:13:36,773 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:13:36,773 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:13:51,484 - uvicorn.error - INFO - Started server process [17324]
+2024-11-06 23:13:51,484 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:13:51,484 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:14:06,498 - uvicorn.error - INFO - Started server process [16432]
+2024-11-06 23:14:06,499 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:14:06,499 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:14:21,659 - uvicorn.error - INFO - Started server process [11748]
+2024-11-06 23:14:21,660 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:14:21,660 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:14:36,754 - uvicorn.error - INFO - Started server process [18608]
+2024-11-06 23:14:36,754 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:14:36,754 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:14:51,632 - uvicorn.error - INFO - Started server process [17756]
+2024-11-06 23:14:51,632 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:14:51,632 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:15:06,694 - uvicorn.error - INFO - Started server process [9612]
+2024-11-06 23:15:06,694 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:15:06,695 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:15:21,781 - uvicorn.error - INFO - Started server process [8536]
+2024-11-06 23:15:21,781 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:15:21,781 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:15:36,826 - uvicorn.error - INFO - Started server process [17524]
+2024-11-06 23:15:36,827 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:15:36,827 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:15:51,770 - uvicorn.error - INFO - Started server process [8232]
+2024-11-06 23:15:51,770 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:15:51,770 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:15:57,023 - uvicorn.error - INFO - Started server process [3896]
+2024-11-06 23:15:57,023 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:15:57,023 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:16:11,719 - uvicorn.error - INFO - Started server process [16248]
+2024-11-06 23:16:11,719 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:16:11,720 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:16:26,723 - uvicorn.error - INFO - Started server process [3960]
+2024-11-06 23:16:26,723 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:16:26,723 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:16:41,946 - uvicorn.error - INFO - Started server process [13532]
+2024-11-06 23:16:41,946 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:16:41,946 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:16:57,224 - uvicorn.error - INFO - Started server process [16796]
+2024-11-06 23:16:57,224 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:16:57,224 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:16:59,543 - uvicorn.error - INFO - Started server process [3256]
+2024-11-06 23:16:59,543 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:16:59,543 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:17:04,618 - uvicorn.error - INFO - Shutting down
+2024-11-06 23:17:04,725 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 23:17:04,725 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 23:17:04,725 - uvicorn.error - INFO - Finished server process [3256]
+2024-11-06 23:17:05,815 - uvicorn.error - INFO - Started server process [8896]
+2024-11-06 23:17:05,815 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:17:05,815 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:18:58,892 - uvicorn.error - INFO - Started server process [17576]
+2024-11-06 23:18:58,892 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:18:58,892 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:18:59,144 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_api.py", line 17, in get_all_messages_api
+    messages = await get_all_messages()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_service.py", line 39, in get_all_messages
+    message = await queue.get(no_ack=False)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\aio_pika\queue.py", line 322, in get
+    raise QueueEmpty
+aio_pika.exceptions.QueueEmpty
+2024-11-06 23:19:01,981 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_api.py", line 17, in get_all_messages_api
+    messages = await get_all_messages()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_service.py", line 39, in get_all_messages
+    message = await queue.get(no_ack=False)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\aio_pika\queue.py", line 322, in get
+    raise QueueEmpty
+aio_pika.exceptions.QueueEmpty
+2024-11-06 23:19:12,834 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 187, in __call__
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_api.py", line 17, in get_all_messages_api
+    messages = await get_all_messages()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\rabbitmq\rabbitmq_service.py", line 39, in get_all_messages
+    message = await queue.get(no_ack=False)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\msi\PycharmProjects\ÐÈÀÒ\.venv\Lib\site-packages\aio_pika\queue.py", line 322, in get
+    raise QueueEmpty
+aio_pika.exceptions.QueueEmpty
+2024-11-06 23:19:59,618 - uvicorn.error - INFO - Shutting down
+2024-11-06 23:19:59,727 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 23:19:59,727 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 23:19:59,727 - uvicorn.error - INFO - Finished server process [17576]
+2024-11-06 23:20:00,799 - uvicorn.error - INFO - Started server process [16720]
+2024-11-06 23:20:00,800 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:20:00,800 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:20:02,564 - uvicorn.error - INFO - Started server process [19276]
+2024-11-06 23:20:02,564 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-06 23:20:02,564 - uvicorn.error - INFO - Application startup complete.
+2024-11-06 23:20:52,139 - aio_pika.queue - INFO - Purging queue: <RobustQueue(my_queue): auto_delete=False, durable=True, exclusive=False, arguments=None
+2024-11-06 23:21:36,194 - uvicorn.error - INFO - Shutting down
+2024-11-06 23:21:36,303 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-06 23:21:36,303 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-06 23:21:36,303 - uvicorn.error - INFO - Finished server process [19276]
+2024-11-16 11:02:51,721 - uvicorn.error - INFO - Started server process [7852]
+2024-11-16 11:02:51,721 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-16 11:02:51,721 - uvicorn.error - INFO - Application startup complete.
+2024-11-16 11:03:11,265 - uvicorn.error - INFO - Started server process [15448]
+2024-11-16 11:03:11,265 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-16 11:03:11,265 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:18:18,996 - uvicorn.error - INFO - Started server process [8396]
+2024-11-19 14:18:18,997 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:18:18,997 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:18:57,180 - uvicorn.error - INFO - Started server process [11600]
+2024-11-19 14:18:57,181 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:18:57,181 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:19:07,503 - uvicorn.error - INFO - Started server process [5468]
+2024-11-19 14:19:07,503 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:19:07,503 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:19:22,636 - uvicorn.error - INFO - Started server process [15748]
+2024-11-19 14:19:22,636 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:19:22,636 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:19:37,685 - uvicorn.error - INFO - Started server process [5856]
+2024-11-19 14:19:37,685 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:19:37,685 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:19:52,696 - uvicorn.error - INFO - Started server process [13440]
+2024-11-19 14:19:52,696 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:19:52,697 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:07,715 - uvicorn.error - INFO - Started server process [11336]
+2024-11-19 14:20:07,715 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:20:07,715 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:22,862 - uvicorn.error - INFO - Started server process [15124]
+2024-11-19 14:20:22,862 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:20:22,862 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:37,817 - uvicorn.error - INFO - Started server process [15780]
+2024-11-19 14:20:37,817 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:20:37,818 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:53,094 - uvicorn.error - INFO - Started server process [13248]
+2024-11-19 14:20:53,094 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:20:53,095 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:59,051 - uvicorn.error - INFO - Started server process [15488]
+2024-11-19 14:20:59,052 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:20:59,052 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:20:59,601 - uvicorn.error - INFO - Shutting down
+2024-11-19 14:20:59,709 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-19 14:20:59,710 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-19 14:20:59,710 - uvicorn.error - INFO - Finished server process [15488]
+2024-11-19 14:32:53,955 - uvicorn.error - INFO - Started server process [12432]
+2024-11-19 14:32:53,955 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:32:53,955 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:47:36,548 - uvicorn.error - INFO - Started server process [10764]
+2024-11-19 14:47:36,548 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:47:36,548 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:47:50,228 - uvicorn.error - INFO - Started server process [608]
+2024-11-19 14:47:50,228 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:47:50,228 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:48:05,574 - uvicorn.error - INFO - Started server process [14936]
+2024-11-19 14:48:05,574 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:48:05,574 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:48:20,257 - uvicorn.error - INFO - Started server process [18876]
+2024-11-19 14:48:20,258 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:48:20,258 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:48:35,306 - uvicorn.error - INFO - Started server process [19136]
+2024-11-19 14:48:35,306 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:48:35,306 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:48:50,344 - uvicorn.error - INFO - Started server process [13524]
+2024-11-19 14:48:50,344 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:48:50,344 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:49:05,576 - uvicorn.error - INFO - Started server process [7192]
+2024-11-19 14:49:05,576 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:49:05,577 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 14:49:21,908 - uvicorn.error - INFO - Started server process [18660]
+2024-11-19 14:49:21,908 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 14:49:21,908 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:23:50,157 - uvicorn.error - INFO - Started server process [14464]
+2024-11-19 15:23:50,157 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:23:50,157 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:24:04,425 - uvicorn.error - INFO - Started server process [10144]
+2024-11-19 15:24:04,425 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:24:04,425 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:24:19,393 - uvicorn.error - INFO - Started server process [14600]
+2024-11-19 15:24:19,395 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:24:19,395 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:24:34,605 - uvicorn.error - INFO - Started server process [12604]
+2024-11-19 15:24:34,605 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:24:34,605 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:24:49,575 - uvicorn.error - INFO - Started server process [18824]
+2024-11-19 15:24:49,575 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:24:49,575 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:25:04,745 - uvicorn.error - INFO - Started server process [19240]
+2024-11-19 15:25:04,745 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:25:04,745 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:25:19,625 - uvicorn.error - INFO - Started server process [4816]
+2024-11-19 15:25:19,625 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:25:19,625 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:25:34,695 - uvicorn.error - INFO - Started server process [8096]
+2024-11-19 15:25:34,695 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:25:34,695 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:25:49,544 - uvicorn.error - INFO - Started server process [12132]
+2024-11-19 15:25:49,544 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:25:49,545 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:26:04,765 - uvicorn.error - INFO - Started server process [13204]
+2024-11-19 15:26:04,765 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:26:04,765 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:26:19,659 - uvicorn.error - INFO - Started server process [15540]
+2024-11-19 15:26:19,659 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:26:19,659 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:26:34,708 - uvicorn.error - INFO - Started server process [1256]
+2024-11-19 15:26:34,708 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:26:34,708 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:26:49,805 - uvicorn.error - INFO - Started server process [4972]
+2024-11-19 15:26:49,805 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:26:49,805 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:27:04,860 - uvicorn.error - INFO - Started server process [10184]
+2024-11-19 15:27:04,860 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:27:04,860 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:27:19,805 - uvicorn.error - INFO - Started server process [832]
+2024-11-19 15:27:19,805 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:27:19,805 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:27:34,835 - uvicorn.error - INFO - Started server process [1904]
+2024-11-19 15:27:34,835 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:27:34,835 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:27:50,015 - uvicorn.error - INFO - Started server process [9212]
+2024-11-19 15:27:50,015 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:27:50,015 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:28:05,145 - uvicorn.error - INFO - Started server process [17780]
+2024-11-19 15:28:05,145 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:28:05,145 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:28:19,845 - uvicorn.error - INFO - Started server process [18404]
+2024-11-19 15:28:19,845 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:28:19,845 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:28:34,900 - uvicorn.error - INFO - Started server process [9840]
+2024-11-19 15:28:34,900 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:28:34,900 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:28:49,977 - uvicorn.error - INFO - Started server process [18324]
+2024-11-19 15:28:49,977 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:28:49,977 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:29:05,165 - uvicorn.error - INFO - Started server process [4848]
+2024-11-19 15:29:05,165 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:29:05,165 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:29:20,115 - uvicorn.error - INFO - Started server process [9356]
+2024-11-19 15:29:20,115 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:29:20,115 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:29:35,209 - uvicorn.error - INFO - Started server process [18332]
+2024-11-19 15:29:35,209 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:29:35,209 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:29:50,120 - uvicorn.error - INFO - Started server process [6236]
+2024-11-19 15:29:50,120 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:29:50,120 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:30:05,205 - uvicorn.error - INFO - Started server process [19372]
+2024-11-19 15:30:05,205 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:30:05,205 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:30:20,210 - uvicorn.error - INFO - Started server process [2332]
+2024-11-19 15:30:20,210 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:30:20,210 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:30:35,095 - uvicorn.error - INFO - Started server process [14708]
+2024-11-19 15:30:35,095 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:30:35,095 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:30:50,140 - uvicorn.error - INFO - Started server process [9440]
+2024-11-19 15:30:50,140 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:30:50,140 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:31:05,348 - uvicorn.error - INFO - Started server process [12452]
+2024-11-19 15:31:05,348 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:31:05,348 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:31:20,295 - uvicorn.error - INFO - Started server process [19420]
+2024-11-19 15:31:20,295 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:31:20,295 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:31:35,390 - uvicorn.error - INFO - Started server process [11780]
+2024-11-19 15:31:35,390 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:31:35,390 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:31:50,256 - uvicorn.error - INFO - Started server process [14396]
+2024-11-19 15:31:50,256 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:31:50,256 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:32:05,442 - uvicorn.error - INFO - Started server process [3996]
+2024-11-19 15:32:05,442 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:32:05,442 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:32:20,455 - uvicorn.error - INFO - Started server process [9212]
+2024-11-19 15:32:20,455 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:32:20,455 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:32:35,525 - uvicorn.error - INFO - Started server process [8160]
+2024-11-19 15:32:35,525 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:32:35,525 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:32:50,369 - uvicorn.error - INFO - Started server process [11676]
+2024-11-19 15:32:50,369 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:32:50,369 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:33:05,585 - uvicorn.error - INFO - Started server process [400]
+2024-11-19 15:33:05,585 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:33:05,585 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:33:20,585 - uvicorn.error - INFO - Started server process [6980]
+2024-11-19 15:33:20,590 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:33:20,590 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:33:35,689 - uvicorn.error - INFO - Started server process [5916]
+2024-11-19 15:33:35,689 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:33:35,689 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:33:50,505 - uvicorn.error - INFO - Started server process [13708]
+2024-11-19 15:33:50,505 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:33:50,505 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:34:05,655 - uvicorn.error - INFO - Started server process [2448]
+2024-11-19 15:34:05,655 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:34:05,655 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:34:20,630 - uvicorn.error - INFO - Started server process [13680]
+2024-11-19 15:34:20,630 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:34:20,635 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:34:35,735 - uvicorn.error - INFO - Started server process [17864]
+2024-11-19 15:34:35,735 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:34:35,735 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:34:50,600 - uvicorn.error - INFO - Started server process [9640]
+2024-11-19 15:34:50,600 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:34:50,600 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:35:05,797 - uvicorn.error - INFO - Started server process [19048]
+2024-11-19 15:35:05,797 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:35:05,797 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:35:20,765 - uvicorn.error - INFO - Started server process [5856]
+2024-11-19 15:35:20,765 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:35:20,765 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:35:35,811 - uvicorn.error - INFO - Started server process [13676]
+2024-11-19 15:35:35,811 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:35:35,815 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:35:50,905 - uvicorn.error - INFO - Started server process [18704]
+2024-11-19 15:35:50,905 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:35:50,905 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:36:05,818 - uvicorn.error - INFO - Started server process [18448]
+2024-11-19 15:36:05,818 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:36:05,818 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:36:20,850 - uvicorn.error - INFO - Started server process [6964]
+2024-11-19 15:36:20,850 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:36:20,850 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:36:35,945 - uvicorn.error - INFO - Started server process [19244]
+2024-11-19 15:36:35,945 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:36:35,945 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:36:51,005 - uvicorn.error - INFO - Started server process [5752]
+2024-11-19 15:36:51,005 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:36:51,005 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:37:05,985 - uvicorn.error - INFO - Started server process [7228]
+2024-11-19 15:37:05,985 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:37:05,985 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:37:20,906 - uvicorn.error - INFO - Started server process [11276]
+2024-11-19 15:37:20,906 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:37:20,906 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:37:36,000 - uvicorn.error - INFO - Started server process [8828]
+2024-11-19 15:37:36,000 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:37:36,000 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:37:51,040 - uvicorn.error - INFO - Started server process [6000]
+2024-11-19 15:37:51,040 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:37:51,040 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:38:06,205 - uvicorn.error - INFO - Started server process [17248]
+2024-11-19 15:38:06,205 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:38:06,209 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:38:21,195 - uvicorn.error - INFO - Started server process [7200]
+2024-11-19 15:38:21,195 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:38:21,195 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:38:36,047 - uvicorn.error - INFO - Started server process [4980]
+2024-11-19 15:38:36,047 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:38:36,047 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:38:51,099 - uvicorn.error - INFO - Started server process [13708]
+2024-11-19 15:38:51,099 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:38:51,099 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:39:06,195 - uvicorn.error - INFO - Started server process [1856]
+2024-11-19 15:39:06,195 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:39:06,195 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:39:21,256 - uvicorn.error - INFO - Started server process [7416]
+2024-11-19 15:39:21,256 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:39:21,256 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:39:36,345 - uvicorn.error - INFO - Started server process [5816]
+2024-11-19 15:39:36,345 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:39:36,345 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:39:51,165 - uvicorn.error - INFO - Started server process [16636]
+2024-11-19 15:39:51,165 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:39:51,165 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:40:06,385 - uvicorn.error - INFO - Started server process [4104]
+2024-11-19 15:40:06,385 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:40:06,385 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:40:21,300 - uvicorn.error - INFO - Started server process [12452]
+2024-11-19 15:40:21,300 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:40:21,300 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:40:36,355 - uvicorn.error - INFO - Started server process [17272]
+2024-11-19 15:40:36,355 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:40:36,355 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:40:51,385 - uvicorn.error - INFO - Started server process [1856]
+2024-11-19 15:40:51,385 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:40:51,385 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:41:06,540 - uvicorn.error - INFO - Started server process [6124]
+2024-11-19 15:41:06,540 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:41:06,540 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:41:21,360 - uvicorn.error - INFO - Started server process [15692]
+2024-11-19 15:41:21,360 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:41:21,360 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:41:36,445 - uvicorn.error - INFO - Started server process [15488]
+2024-11-19 15:41:36,445 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:41:36,445 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:41:51,485 - uvicorn.error - INFO - Started server process [5768]
+2024-11-19 15:41:51,485 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:41:51,485 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:42:06,650 - uvicorn.error - INFO - Started server process [18704]
+2024-11-19 15:42:06,650 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:42:06,650 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:42:21,452 - uvicorn.error - INFO - Started server process [16152]
+2024-11-19 15:42:21,452 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:42:21,452 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:42:36,540 - uvicorn.error - INFO - Started server process [14268]
+2024-11-19 15:42:36,540 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:42:36,540 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:42:51,570 - uvicorn.error - INFO - Started server process [14524]
+2024-11-19 15:42:51,570 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:42:51,570 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:43:06,725 - uvicorn.error - INFO - Started server process [19308]
+2024-11-19 15:43:06,725 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:43:06,725 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:43:21,535 - uvicorn.error - INFO - Started server process [14236]
+2024-11-19 15:43:21,535 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:43:21,535 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:43:36,588 - uvicorn.error - INFO - Started server process [10848]
+2024-11-19 15:43:36,588 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:43:36,588 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:43:51,640 - uvicorn.error - INFO - Started server process [5932]
+2024-11-19 15:43:51,640 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:43:51,640 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:44:06,775 - uvicorn.error - INFO - Started server process [2700]
+2024-11-19 15:44:06,775 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:44:06,775 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:44:21,845 - uvicorn.error - INFO - Started server process [17096]
+2024-11-19 15:44:21,845 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:44:21,846 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:44:36,697 - uvicorn.error - INFO - Started server process [2352]
+2024-11-19 15:44:36,697 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:44:36,697 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:44:51,731 - uvicorn.error - INFO - Started server process [15624]
+2024-11-19 15:44:51,731 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:44:51,731 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:45:06,901 - uvicorn.error - INFO - Started server process [9068]
+2024-11-19 15:45:06,901 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:45:06,901 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:45:21,875 - uvicorn.error - INFO - Started server process [2488]
+2024-11-19 15:45:21,875 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:45:21,875 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:45:36,970 - uvicorn.error - INFO - Started server process [15328]
+2024-11-19 15:45:36,970 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:45:36,970 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:45:51,805 - uvicorn.error - INFO - Started server process [6952]
+2024-11-19 15:45:51,805 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:45:51,805 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:46:06,885 - uvicorn.error - INFO - Started server process [15740]
+2024-11-19 15:46:06,885 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:46:06,885 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:46:21,939 - uvicorn.error - INFO - Started server process [2784]
+2024-11-19 15:46:21,939 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:46:21,939 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:46:36,987 - uvicorn.error - INFO - Started server process [13044]
+2024-11-19 15:46:36,987 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:46:36,987 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:46:52,093 - uvicorn.error - INFO - Started server process [19024]
+2024-11-19 15:46:52,093 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:46:52,093 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:47:06,985 - uvicorn.error - INFO - Started server process [17792]
+2024-11-19 15:47:06,985 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:47:06,985 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:47:22,028 - uvicorn.error - INFO - Started server process [11432]
+2024-11-19 15:47:22,028 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:47:22,028 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:47:37,066 - uvicorn.error - INFO - Started server process [9788]
+2024-11-19 15:47:37,066 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:47:37,066 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:47:52,160 - uvicorn.error - INFO - Started server process [6052]
+2024-11-19 15:47:52,160 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:47:52,160 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:48:07,260 - uvicorn.error - INFO - Started server process [17632]
+2024-11-19 15:48:07,260 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:48:07,260 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:48:22,097 - uvicorn.error - INFO - Started server process [9964]
+2024-11-19 15:48:22,097 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:48:22,097 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:48:37,205 - uvicorn.error - INFO - Started server process [11052]
+2024-11-19 15:48:37,205 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:48:37,205 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:48:52,205 - uvicorn.error - INFO - Started server process [2052]
+2024-11-19 15:48:52,205 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:48:52,205 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:49:07,262 - uvicorn.error - INFO - Started server process [12560]
+2024-11-19 15:49:07,262 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:49:07,262 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:49:22,300 - uvicorn.error - INFO - Started server process [8920]
+2024-11-19 15:49:22,300 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:49:22,300 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:49:37,409 - uvicorn.error - INFO - Started server process [13860]
+2024-11-19 15:49:37,409 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:49:37,409 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:49:52,476 - uvicorn.error - INFO - Started server process [19100]
+2024-11-19 15:49:52,480 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:49:52,480 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:50:07,375 - uvicorn.error - INFO - Started server process [12672]
+2024-11-19 15:50:07,375 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:50:07,378 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:50:22,355 - uvicorn.error - INFO - Started server process [18356]
+2024-11-19 15:50:22,355 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:50:22,355 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:50:37,400 - uvicorn.error - INFO - Started server process [14244]
+2024-11-19 15:50:37,400 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:50:37,400 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:50:52,475 - uvicorn.error - INFO - Started server process [13512]
+2024-11-19 15:50:52,475 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:50:52,475 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:51:07,565 - uvicorn.error - INFO - Started server process [11576]
+2024-11-19 15:51:07,565 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:51:07,565 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:51:22,640 - uvicorn.error - INFO - Started server process [16396]
+2024-11-19 15:51:22,640 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:51:22,640 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:51:37,509 - uvicorn.error - INFO - Started server process [18760]
+2024-11-19 15:51:37,509 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:51:37,509 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:51:52,545 - uvicorn.error - INFO - Started server process [12168]
+2024-11-19 15:51:52,545 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:51:52,545 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:52:07,655 - uvicorn.error - INFO - Started server process [8404]
+2024-11-19 15:52:07,655 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:52:07,655 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:52:22,767 - uvicorn.error - INFO - Started server process [19256]
+2024-11-19 15:52:22,767 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:52:22,767 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:52:37,607 - uvicorn.error - INFO - Started server process [14884]
+2024-11-19 15:52:37,607 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:52:37,607 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:52:52,635 - uvicorn.error - INFO - Started server process [5216]
+2024-11-19 15:52:52,635 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:52:52,635 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:53:07,796 - uvicorn.error - INFO - Started server process [16824]
+2024-11-19 15:53:07,796 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:53:07,796 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:53:22,625 - uvicorn.error - INFO - Started server process [17976]
+2024-11-19 15:53:22,625 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:53:22,625 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:53:37,688 - uvicorn.error - INFO - Started server process [14124]
+2024-11-19 15:53:37,688 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:53:37,688 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:53:52,744 - uvicorn.error - INFO - Started server process [5648]
+2024-11-19 15:53:52,744 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:53:52,744 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:54:07,855 - uvicorn.error - INFO - Started server process [10472]
+2024-11-19 15:54:07,855 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:54:07,855 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:54:22,905 - uvicorn.error - INFO - Started server process [1240]
+2024-11-19 15:54:22,905 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:54:22,905 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:54:37,986 - uvicorn.error - INFO - Started server process [11100]
+2024-11-19 15:54:37,986 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:54:37,986 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:54:52,795 - uvicorn.error - INFO - Started server process [11044]
+2024-11-19 15:54:52,795 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:54:52,795 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:55:07,905 - uvicorn.error - INFO - Started server process [17764]
+2024-11-19 15:55:07,905 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:55:07,905 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:55:22,869 - uvicorn.error - INFO - Started server process [18248]
+2024-11-19 15:55:22,870 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:55:22,870 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:55:37,886 - uvicorn.error - INFO - Started server process [7192]
+2024-11-19 15:55:37,887 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:55:37,887 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:55:53,125 - uvicorn.error - INFO - Started server process [8620]
+2024-11-19 15:55:53,125 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:55:53,126 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:56:08,014 - uvicorn.error - INFO - Started server process [6436]
+2024-11-19 15:56:08,014 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:56:08,015 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:56:22,994 - uvicorn.error - INFO - Started server process [1488]
+2024-11-19 15:56:22,994 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:56:22,995 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:56:38,127 - uvicorn.error - INFO - Started server process [15780]
+2024-11-19 15:56:38,127 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:56:38,127 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:56:53,056 - uvicorn.error - INFO - Started server process [4528]
+2024-11-19 15:56:53,056 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:56:53,056 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:57:08,236 - uvicorn.error - INFO - Started server process [11756]
+2024-11-19 15:57:08,236 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:57:08,236 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:57:23,075 - uvicorn.error - INFO - Started server process [17792]
+2024-11-19 15:57:23,075 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:57:23,075 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:57:38,240 - uvicorn.error - INFO - Started server process [10244]
+2024-11-19 15:57:38,240 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:57:38,240 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:57:53,256 - uvicorn.error - INFO - Started server process [3220]
+2024-11-19 15:57:53,256 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:57:53,256 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:58:08,217 - uvicorn.error - INFO - Started server process [14672]
+2024-11-19 15:58:08,217 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:58:08,217 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:58:23,113 - uvicorn.error - INFO - Started server process [8456]
+2024-11-19 15:58:23,113 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:58:23,113 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:58:38,400 - uvicorn.error - INFO - Started server process [9604]
+2024-11-19 15:58:38,400 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:58:38,400 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:58:53,387 - uvicorn.error - INFO - Started server process [18328]
+2024-11-19 15:58:53,387 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:58:53,388 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:59:08,480 - uvicorn.error - INFO - Started server process [6672]
+2024-11-19 15:59:08,480 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:59:08,480 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:59:23,340 - uvicorn.error - INFO - Started server process [19304]
+2024-11-19 15:59:23,340 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:59:23,340 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:59:38,316 - uvicorn.error - INFO - Started server process [3036]
+2024-11-19 15:59:38,316 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:59:38,316 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 15:59:53,392 - uvicorn.error - INFO - Started server process [4816]
+2024-11-19 15:59:53,392 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 15:59:53,392 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:00:08,483 - uvicorn.error - INFO - Started server process [17828]
+2024-11-19 16:00:08,483 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:00:08,483 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:00:23,406 - uvicorn.error - INFO - Started server process [16464]
+2024-11-19 16:00:23,406 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:00:23,406 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:00:38,463 - uvicorn.error - INFO - Started server process [2128]
+2024-11-19 16:00:38,463 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:00:38,463 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:00:53,521 - uvicorn.error - INFO - Started server process [5056]
+2024-11-19 16:00:53,521 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:00:53,521 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:01:08,513 - uvicorn.error - INFO - Started server process [13248]
+2024-11-19 16:01:08,514 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:01:08,514 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:01:23,674 - uvicorn.error - INFO - Started server process [1080]
+2024-11-19 16:01:23,674 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:01:23,674 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:01:38,537 - uvicorn.error - INFO - Started server process [10180]
+2024-11-19 16:01:38,537 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:01:38,537 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:01:53,690 - uvicorn.error - INFO - Started server process [18456]
+2024-11-19 16:01:53,690 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:01:53,690 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:02:08,546 - uvicorn.error - INFO - Started server process [11364]
+2024-11-19 16:02:08,546 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:02:08,546 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:02:23,702 - uvicorn.error - INFO - Started server process [10304]
+2024-11-19 16:02:23,702 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:02:23,702 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:02:38,600 - uvicorn.error - INFO - Started server process [12488]
+2024-11-19 16:02:38,600 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:02:38,600 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:02:53,789 - uvicorn.error - INFO - Started server process [3220]
+2024-11-19 16:02:53,789 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:02:53,789 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:03:08,665 - uvicorn.error - INFO - Started server process [16556]
+2024-11-19 16:03:08,665 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:03:08,665 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:03:23,847 - uvicorn.error - INFO - Started server process [14824]
+2024-11-19 16:03:23,847 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:03:23,847 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:03:38,915 - uvicorn.error - INFO - Started server process [14404]
+2024-11-19 16:03:38,915 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:03:38,915 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:03:53,814 - uvicorn.error - INFO - Started server process [18476]
+2024-11-19 16:03:53,814 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:03:53,814 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:04:08,747 - uvicorn.error - INFO - Started server process [8576]
+2024-11-19 16:04:08,747 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:04:08,747 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:04:23,840 - uvicorn.error - INFO - Started server process [12948]
+2024-11-19 16:04:23,840 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:04:23,840 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:04:38,978 - uvicorn.error - INFO - Started server process [7352]
+2024-11-19 16:04:38,978 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:04:38,978 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:04:53,873 - uvicorn.error - INFO - Started server process [13168]
+2024-11-19 16:04:53,873 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:04:53,873 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:05:09,021 - uvicorn.error - INFO - Started server process [16240]
+2024-11-19 16:05:09,021 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:05:09,021 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:05:23,922 - uvicorn.error - INFO - Started server process [2832]
+2024-11-19 16:05:23,922 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:05:23,922 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:05:39,044 - uvicorn.error - INFO - Started server process [10912]
+2024-11-19 16:05:39,044 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:05:39,044 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:05:54,172 - uvicorn.error - INFO - Started server process [13528]
+2024-11-19 16:05:54,172 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:05:54,172 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:06:09,196 - uvicorn.error - INFO - Started server process [9752]
+2024-11-19 16:06:09,196 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:06:09,196 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:06:24,046 - uvicorn.error - INFO - Started server process [18384]
+2024-11-19 16:06:24,046 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:06:24,046 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:06:39,127 - uvicorn.error - INFO - Started server process [9724]
+2024-11-19 16:06:39,127 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:06:39,127 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:06:54,283 - uvicorn.error - INFO - Started server process [6504]
+2024-11-19 16:06:54,283 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:06:54,283 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:07:09,198 - uvicorn.error - INFO - Started server process [13972]
+2024-11-19 16:07:09,198 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:07:09,198 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:07:24,281 - uvicorn.error - INFO - Started server process [18436]
+2024-11-19 16:07:24,281 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:07:24,284 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:07:39,363 - uvicorn.error - INFO - Started server process [13816]
+2024-11-19 16:07:39,363 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:07:39,363 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:07:54,265 - uvicorn.error - INFO - Started server process [9236]
+2024-11-19 16:07:54,265 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:07:54,265 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:08:09,226 - uvicorn.error - INFO - Started server process [6688]
+2024-11-19 16:08:09,226 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:08:09,226 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:08:24,407 - uvicorn.error - INFO - Started server process [7200]
+2024-11-19 16:08:24,407 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:08:24,407 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:08:39,531 - uvicorn.error - INFO - Started server process [18140]
+2024-11-19 16:08:39,531 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:08:39,531 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:08:54,431 - uvicorn.error - INFO - Started server process [7080]
+2024-11-19 16:08:54,431 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:08:54,431 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:09:09,405 - uvicorn.error - INFO - Started server process [7804]
+2024-11-19 16:09:09,405 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:09:09,405 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:09:24,553 - uvicorn.error - INFO - Started server process [11216]
+2024-11-19 16:09:24,553 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:09:24,553 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:09:39,401 - uvicorn.error - INFO - Started server process [19252]
+2024-11-19 16:09:39,401 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:09:39,401 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:09:54,551 - uvicorn.error - INFO - Started server process [15344]
+2024-11-19 16:09:54,551 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:09:54,551 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:10:09,488 - uvicorn.error - INFO - Started server process [10180]
+2024-11-19 16:10:09,488 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:10:09,488 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:10:24,661 - uvicorn.error - INFO - Started server process [12636]
+2024-11-19 16:10:24,661 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:10:24,661 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:10:39,515 - uvicorn.error - INFO - Started server process [5264]
+2024-11-19 16:10:39,515 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:10:39,515 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:10:54,820 - uvicorn.error - INFO - Started server process [6488]
+2024-11-19 16:10:54,820 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:10:54,820 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:11:09,727 - uvicorn.error - INFO - Started server process [14316]
+2024-11-19 16:11:09,727 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:11:09,727 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:11:24,775 - uvicorn.error - INFO - Started server process [13388]
+2024-11-19 16:11:24,775 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:11:24,775 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:11:39,728 - uvicorn.error - INFO - Started server process [17196]
+2024-11-19 16:11:39,728 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:11:39,728 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:11:54,687 - uvicorn.error - INFO - Started server process [8404]
+2024-11-19 16:11:54,687 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:11:54,687 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:12:09,984 - uvicorn.error - INFO - Started server process [12488]
+2024-11-19 16:12:09,984 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:12:09,985 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:12:24,873 - uvicorn.error - INFO - Started server process [3988]
+2024-11-19 16:12:24,874 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:12:24,874 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:12:39,874 - uvicorn.error - INFO - Started server process [6760]
+2024-11-19 16:12:39,874 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:12:39,874 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:12:54,855 - uvicorn.error - INFO - Started server process [4640]
+2024-11-19 16:12:54,855 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:12:54,855 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:13:09,946 - uvicorn.error - INFO - Started server process [15580]
+2024-11-19 16:13:09,946 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:13:09,947 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:13:24,935 - uvicorn.error - INFO - Started server process [13960]
+2024-11-19 16:13:24,935 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:13:24,936 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:13:40,081 - uvicorn.error - INFO - Started server process [19116]
+2024-11-19 16:13:40,081 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:13:40,081 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:13:54,950 - uvicorn.error - INFO - Started server process [8680]
+2024-11-19 16:13:54,951 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:13:54,951 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:14:10,135 - uvicorn.error - INFO - Started server process [18248]
+2024-11-19 16:14:10,136 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:14:10,136 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:14:24,943 - uvicorn.error - INFO - Started server process [15764]
+2024-11-19 16:14:24,943 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:14:24,943 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:14:39,997 - uvicorn.error - INFO - Started server process [12432]
+2024-11-19 16:14:39,997 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:14:39,997 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:14:55,024 - uvicorn.error - INFO - Started server process [14964]
+2024-11-19 16:14:55,024 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:14:55,024 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:15:10,043 - uvicorn.error - INFO - Started server process [18436]
+2024-11-19 16:15:10,043 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:15:10,044 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:15:25,146 - uvicorn.error - INFO - Started server process [5844]
+2024-11-19 16:15:25,146 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:15:25,146 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:15:40,335 - uvicorn.error - INFO - Started server process [6688]
+2024-11-19 16:15:40,336 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:15:40,336 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:15:55,127 - uvicorn.error - INFO - Started server process [400]
+2024-11-19 16:15:55,127 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:15:55,127 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:16:10,302 - uvicorn.error - INFO - Started server process [14776]
+2024-11-19 16:16:10,302 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:16:10,302 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:16:25,236 - uvicorn.error - INFO - Started server process [18372]
+2024-11-19 16:16:25,236 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:16:25,236 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:16:40,367 - uvicorn.error - INFO - Started server process [15952]
+2024-11-19 16:16:40,367 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:16:40,367 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:16:55,435 - uvicorn.error - INFO - Started server process [3216]
+2024-11-19 16:16:55,435 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:16:55,436 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:17:10,430 - uvicorn.error - INFO - Started server process [2572]
+2024-11-19 16:17:10,430 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:17:10,430 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:17:25,311 - uvicorn.error - INFO - Started server process [15752]
+2024-11-19 16:17:25,312 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:17:25,312 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:17:40,473 - uvicorn.error - INFO - Started server process [13088]
+2024-11-19 16:17:40,474 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:17:40,474 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:17:55,539 - uvicorn.error - INFO - Started server process [8808]
+2024-11-19 16:17:55,539 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:17:55,540 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:18:10,422 - uvicorn.error - INFO - Started server process [7864]
+2024-11-19 16:18:10,422 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:18:10,422 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:18:25,579 - uvicorn.error - INFO - Started server process [1376]
+2024-11-19 16:18:25,579 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:18:25,580 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:18:40,459 - uvicorn.error - INFO - Started server process [17404]
+2024-11-19 16:18:40,459 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:18:40,459 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:18:55,545 - uvicorn.error - INFO - Started server process [10852]
+2024-11-19 16:18:55,545 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:18:55,546 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:19:10,466 - uvicorn.error - INFO - Started server process [19368]
+2024-11-19 16:19:10,466 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:19:10,466 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:19:25,507 - uvicorn.error - INFO - Started server process [14840]
+2024-11-19 16:19:25,507 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:19:25,507 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:19:40,642 - uvicorn.error - INFO - Started server process [4760]
+2024-11-19 16:19:40,642 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:19:40,642 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:19:55,789 - uvicorn.error - INFO - Started server process [2708]
+2024-11-19 16:19:55,790 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:19:55,790 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:20:10,653 - uvicorn.error - INFO - Started server process [18744]
+2024-11-19 16:20:10,653 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:20:10,653 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:20:25,904 - uvicorn.error - INFO - Started server process [8372]
+2024-11-19 16:20:25,905 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:20:25,905 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:20:40,840 - uvicorn.error - INFO - Started server process [7880]
+2024-11-19 16:20:40,840 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:20:40,840 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:20:55,735 - uvicorn.error - INFO - Started server process [13056]
+2024-11-19 16:20:55,735 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:20:55,735 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:21:10,605 - uvicorn.error - INFO - Started server process [3528]
+2024-11-19 16:21:10,605 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:21:10,605 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:21:25,926 - uvicorn.error - INFO - Started server process [5364]
+2024-11-19 16:21:25,926 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:21:25,926 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:21:41,011 - uvicorn.error - INFO - Started server process [2524]
+2024-11-19 16:21:41,011 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:21:41,011 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:21:55,809 - uvicorn.error - INFO - Started server process [1660]
+2024-11-19 16:21:55,809 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:21:55,809 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:22:10,930 - uvicorn.error - INFO - Started server process [3160]
+2024-11-19 16:22:10,930 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:22:10,930 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:22:26,077 - uvicorn.error - INFO - Started server process [10672]
+2024-11-19 16:22:26,077 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:22:26,077 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:22:42,910 - uvicorn.error - INFO - Started server process [7412]
+2024-11-19 16:22:42,910 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:22:42,910 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:41:49,439 - uvicorn.error - INFO - Started server process [17612]
+2024-11-19 16:41:49,439 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:41:49,439 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:42:04,935 - uvicorn.error - INFO - Started server process [360]
+2024-11-19 16:42:04,935 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:42:04,935 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:42:19,773 - uvicorn.error - INFO - Started server process [12876]
+2024-11-19 16:42:19,773 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:42:19,773 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:42:34,650 - uvicorn.error - INFO - Started server process [2744]
+2024-11-19 16:42:34,650 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:42:34,650 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:42:49,675 - uvicorn.error - INFO - Started server process [9380]
+2024-11-19 16:42:49,675 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:42:49,675 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:43:04,998 - uvicorn.error - INFO - Started server process [8916]
+2024-11-19 16:43:04,998 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:43:05,014 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:43:19,822 - uvicorn.error - INFO - Started server process [10752]
+2024-11-19 16:43:19,822 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:43:19,822 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:43:34,649 - uvicorn.error - INFO - Started server process [14472]
+2024-11-19 16:43:34,649 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:43:34,649 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:43:49,818 - uvicorn.error - INFO - Started server process [16580]
+2024-11-19 16:43:49,818 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:43:49,818 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:44:04,961 - uvicorn.error - INFO - Started server process [17676]
+2024-11-19 16:44:04,961 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:44:04,961 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:44:19,794 - uvicorn.error - INFO - Started server process [18112]
+2024-11-19 16:44:19,794 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:44:19,794 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:44:34,760 - uvicorn.error - INFO - Started server process [15800]
+2024-11-19 16:44:34,760 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:44:34,760 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:44:49,946 - uvicorn.error - INFO - Started server process [15876]
+2024-11-19 16:44:49,946 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:44:49,946 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:45:05,066 - uvicorn.error - INFO - Started server process [18476]
+2024-11-19 16:45:05,066 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:45:05,066 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:45:20,044 - uvicorn.error - INFO - Started server process [18988]
+2024-11-19 16:45:20,044 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:45:20,044 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:45:34,871 - uvicorn.error - INFO - Started server process [16564]
+2024-11-19 16:45:34,871 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:45:34,871 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:45:49,992 - uvicorn.error - INFO - Started server process [7228]
+2024-11-19 16:45:49,992 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:45:49,992 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:46:05,361 - uvicorn.error - INFO - Started server process [14952]
+2024-11-19 16:46:05,361 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:46:05,361 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:46:20,118 - uvicorn.error - INFO - Started server process [19288]
+2024-11-19 16:46:20,118 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:46:20,118 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:46:35,038 - uvicorn.error - INFO - Started server process [13564]
+2024-11-19 16:46:35,038 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:46:35,038 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:46:50,151 - uvicorn.error - INFO - Started server process [12948]
+2024-11-19 16:46:50,151 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:46:50,151 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:47:05,287 - uvicorn.error - INFO - Started server process [16452]
+2024-11-19 16:47:05,287 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:47:05,287 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:47:20,302 - uvicorn.error - INFO - Started server process [17004]
+2024-11-19 16:47:20,302 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:47:20,302 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:47:35,284 - uvicorn.error - INFO - Started server process [14180]
+2024-11-19 16:47:35,284 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:47:35,284 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:47:50,218 - uvicorn.error - INFO - Started server process [7120]
+2024-11-19 16:47:50,218 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:47:50,218 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:48:05,532 - uvicorn.error - INFO - Started server process [11892]
+2024-11-19 16:48:05,532 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:48:05,532 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:48:20,402 - uvicorn.error - INFO - Started server process [3956]
+2024-11-19 16:48:20,402 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:48:20,402 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:48:35,293 - uvicorn.error - INFO - Started server process [7628]
+2024-11-19 16:48:35,293 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:48:35,293 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:48:50,325 - uvicorn.error - INFO - Started server process [15880]
+2024-11-19 16:48:50,325 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:48:50,325 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:49:05,678 - uvicorn.error - INFO - Started server process [12508]
+2024-11-19 16:49:05,678 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:49:05,678 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:49:20,349 - uvicorn.error - INFO - Started server process [6392]
+2024-11-19 16:49:20,349 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:49:20,354 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:49:35,557 - uvicorn.error - INFO - Started server process [17400]
+2024-11-19 16:49:35,557 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:49:35,573 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:49:50,458 - uvicorn.error - INFO - Started server process [18084]
+2024-11-19 16:49:50,458 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:49:50,458 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:50:05,854 - uvicorn.error - INFO - Started server process [4892]
+2024-11-19 16:50:05,854 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:50:05,855 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:50:20,642 - uvicorn.error - INFO - Started server process [16204]
+2024-11-19 16:50:20,642 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:50:20,642 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:50:35,539 - uvicorn.error - INFO - Started server process [9644]
+2024-11-19 16:50:35,539 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:50:35,539 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:50:50,728 - uvicorn.error - INFO - Started server process [15280]
+2024-11-19 16:50:50,728 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:50:50,728 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:51:05,797 - uvicorn.error - INFO - Started server process [18256]
+2024-11-19 16:51:05,797 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:51:05,797 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:51:20,601 - uvicorn.error - INFO - Started server process [10484]
+2024-11-19 16:51:20,601 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:51:20,601 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:51:35,663 - uvicorn.error - INFO - Started server process [18704]
+2024-11-19 16:51:35,663 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:51:35,663 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:51:50,908 - uvicorn.error - INFO - Started server process [9320]
+2024-11-19 16:51:50,908 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:51:50,908 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:52:05,753 - uvicorn.error - INFO - Started server process [7016]
+2024-11-19 16:52:05,753 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:52:05,753 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:52:20,887 - uvicorn.error - INFO - Started server process [14356]
+2024-11-19 16:52:20,887 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:52:20,887 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:52:35,873 - uvicorn.error - INFO - Started server process [11292]
+2024-11-19 16:52:35,873 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:52:35,873 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:52:50,877 - uvicorn.error - INFO - Started server process [15272]
+2024-11-19 16:52:50,877 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:52:50,877 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:53:05,967 - uvicorn.error - INFO - Started server process [19244]
+2024-11-19 16:53:05,967 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:53:05,967 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:53:20,973 - uvicorn.error - INFO - Started server process [13864]
+2024-11-19 16:53:20,973 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:53:20,973 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:53:36,106 - uvicorn.error - INFO - Started server process [15972]
+2024-11-19 16:53:36,106 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:53:36,106 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:53:51,048 - uvicorn.error - INFO - Started server process [13912]
+2024-11-19 16:53:51,048 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:53:51,048 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:54:06,083 - uvicorn.error - INFO - Started server process [13956]
+2024-11-19 16:54:06,083 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:54:06,083 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:54:21,027 - uvicorn.error - INFO - Started server process [17344]
+2024-11-19 16:54:21,027 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:54:21,027 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:54:35,967 - uvicorn.error - INFO - Started server process [12688]
+2024-11-19 16:54:35,967 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:54:35,967 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:54:51,104 - uvicorn.error - INFO - Started server process [7520]
+2024-11-19 16:54:51,104 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:54:51,104 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:55:06,212 - uvicorn.error - INFO - Started server process [1344]
+2024-11-19 16:55:06,212 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:55:06,212 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:55:21,243 - uvicorn.error - INFO - Started server process [2784]
+2024-11-19 16:55:21,243 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:55:21,243 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:55:36,264 - uvicorn.error - INFO - Started server process [13120]
+2024-11-19 16:55:36,264 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:55:36,266 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:55:51,111 - uvicorn.error - INFO - Started server process [17056]
+2024-11-19 16:55:51,111 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:55:51,111 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:56:06,203 - uvicorn.error - INFO - Started server process [8956]
+2024-11-19 16:56:06,203 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:56:06,203 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:56:21,326 - uvicorn.error - INFO - Started server process [18840]
+2024-11-19 16:56:21,326 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:56:21,326 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:56:22,742 - root - INFO - Òàêîé íîìåð òåëåôîíà óæå åñòü â áàçó
+2024-11-19 16:56:36,241 - uvicorn.error - INFO - Started server process [9784]
+2024-11-19 16:56:36,241 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:56:36,241 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:56:51,522 - uvicorn.error - INFO - Started server process [19024]
+2024-11-19 16:56:51,522 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:56:51,522 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:56:57,647 - uvicorn.error - INFO - Started server process [16176]
+2024-11-19 16:56:57,647 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:56:57,647 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:58:19,207 - uvicorn.error - INFO - Started server process [12720]
+2024-11-19 16:58:19,207 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:58:19,208 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:58:24,245 - uvicorn.error - INFO - Started server process [19136]
+2024-11-19 16:58:24,245 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:58:24,245 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:58:34,447 - uvicorn.error - INFO - Started server process [4188]
+2024-11-19 16:58:34,447 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:58:34,447 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:58:59,153 - uvicorn.error - INFO - Started server process [13380]
+2024-11-19 16:58:59,154 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:58:59,154 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:59:19,900 - uvicorn.error - INFO - Started server process [18680]
+2024-11-19 16:59:19,900 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:59:19,900 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:59:49,448 - uvicorn.error - INFO - Started server process [7552]
+2024-11-19 16:59:49,448 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:59:49,448 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 16:59:57,322 - uvicorn.error - INFO - Started server process [10708]
+2024-11-19 16:59:57,322 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 16:59:57,322 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:00:08,477 - uvicorn.error - INFO - Started server process [18404]
+2024-11-19 17:00:08,477 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:00:08,478 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:01:12,878 - uvicorn.error - INFO - Started server process [14116]
+2024-11-19 17:01:12,878 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:01:12,879 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:01:24,167 - uvicorn.error - INFO - Started server process [17708]
+2024-11-19 17:01:24,167 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:01:24,167 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:02:19,728 - uvicorn.error - INFO - Started server process [15096]
+2024-11-19 17:02:19,728 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:02:19,728 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:02:28,749 - uvicorn.error - INFO - Started server process [10460]
+2024-11-19 17:02:28,749 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:02:28,749 - uvicorn.error - INFO - Application startup complete.
+2024-11-19 17:02:58,429 - uvicorn.error - INFO - Shutting down
+2024-11-19 17:02:58,538 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-11-19 17:02:58,538 - uvicorn.error - INFO - Application shutdown complete.
+2024-11-19 17:02:58,538 - uvicorn.error - INFO - Finished server process [10460]
+2024-11-19 17:02:59,802 - uvicorn.error - INFO - Started server process [9664]
+2024-11-19 17:02:59,802 - uvicorn.error - INFO - Waiting for application startup.
+2024-11-19 17:02:59,803 - uvicorn.error - INFO - Application startup complete.

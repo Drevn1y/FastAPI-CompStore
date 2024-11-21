@@ -1,9 +1,8 @@
-# send_telegram.py
 import telebot
 
 # Задайте токен и чат ID напрямую
-TELEGRAM_TOKEN = 'Token'  # Токен вашего бота
-CHAT_ID = 'id'  # ID чата или пользователя, которому нужно отправить сообщение
+TELEGRAM_TOKEN = '7093570623:AAEKcR6Qhh3m5gYGaqelXkg4T7QIRJxr2q4'  # Токен вашего бота
+CHAT_ID = '853113897'  # ID чата или пользователя, которому нужно отправить сообщение
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
@@ -15,6 +14,7 @@ def send_order_notification(order_id: int):
     message = f"Ваш заказ #{order_id} принят и обрабатывается!"
     bot.send_message(CHAT_ID, message)
     print("Уведомление отправлено в Telegram.")
+
 
 # Пример вызова
 if __name__ == "__main__":
